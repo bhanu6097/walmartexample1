@@ -1,0 +1,17 @@
+{
+  "name": "React-chartjs-2 example",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "homepage": "https://codesandbox.io/s/new",
+  "main": "src/index.js",
+  "dependencies": {
+    "chart.js": "2.7.1",
+    "react": "16.2.0",
+    "react-chartjs-2": "2.7.0",
+    "react-dom": "16.2.0"
+  },
+  "devDependencies": {
+    "react-scripts": "1.1.0"
+  }
+}
